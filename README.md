@@ -16,7 +16,6 @@ Platform: SSMS (SQL Server Management Studio)
 
 🔍 Key Tasks Performed
 Complex JOIN operations across Sales, Inventory, and Product tables
-
 Use of Common Table Expressions (CTEs) and subqueries
 
 Created derived tables for city-level inventory movement
