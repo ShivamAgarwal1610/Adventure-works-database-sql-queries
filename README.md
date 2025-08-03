@@ -28,15 +28,25 @@ Focused on query optimization and business reporting
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Adventure-works-database-sql-queries/
-│
-├── queries/
-│   ├── sales_analysis.sql
-│   ├── inventory_report.sql
-│   ├── employee_performance.sql
-│   └── city_insights.sql
-│
-└── README.md
+🧠 What I Learned
+Hands-on experience with real-world relational databases
+
+Writing efficient and scalable SQL queries
+
+Understanding business context from database schema
+
+Reporting-ready query formatting and documentation
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✅ How to Use
+Install Microsoft SQL Server and AdventureWorks sample database
+
+Open the .sql files in SSMS
+
+Run queries and observe output tables and results
+
+Modify queries as needed for deeper analysis
 
 
 
