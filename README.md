@@ -24,4 +24,5 @@ Created derived tables for city-level inventory movement
 Performed window functions, filtering, and aggregations
 
 Focused on query optimization and business reporting
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
