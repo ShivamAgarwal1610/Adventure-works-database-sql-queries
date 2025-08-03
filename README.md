@@ -27,3 +27,16 @@ Performed window functions, filtering, and aggregations
 Focused on query optimization and business reporting
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Adventure-works-database-sql-queries/
+│
+├── queries/
+│   ├── sales_analysis.sql
+│   ├── inventory_report.sql
+│   ├── employee_performance.sql
+│   └── city_insights.sql
+│
+└── README.md
+
+
+
