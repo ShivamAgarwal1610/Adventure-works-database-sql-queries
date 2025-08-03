@@ -1,6 +1,8 @@
 📄 Overview
 This project contains a series of SQL queries and analyses performed on the Microsoft AdventureWorks database as part of my internship at Celebal Technologies. The objective was to derive actionable business insights using structured queries across multiple relational tables.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🧰 Tools & Technologies
 Database: Microsoft SQL Server
 
